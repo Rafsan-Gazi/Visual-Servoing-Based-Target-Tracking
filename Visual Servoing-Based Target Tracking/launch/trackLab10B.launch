@@ -1,0 +1,4 @@
+<launch>
+<node pkg="camera" type="lab11.py" name="trackLab10B"
+output="screen" />
+</launch>

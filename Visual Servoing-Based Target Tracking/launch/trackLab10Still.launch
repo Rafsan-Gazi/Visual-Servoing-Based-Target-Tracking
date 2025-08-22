@@ -1,0 +1,4 @@
+<launch>
+<node pkg="camera" type="trackLab10Still.py" name="trackLab10Still"
+output="screen" />
+</launch>

@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="camera" type="distanceLab9.py" name="CameraProcessing"
+output="screen"/>
+</launch>

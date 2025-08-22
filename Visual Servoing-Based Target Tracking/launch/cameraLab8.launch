@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="camera" type="CameraLab8.py" name="CameraProcessing"
+output="screen"/>
+</launch>
